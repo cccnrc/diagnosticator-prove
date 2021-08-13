@@ -1,0 +1,1 @@
+# diagnosticator-prove
